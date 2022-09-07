@@ -1,0 +1,8 @@
+.collins-hero-bg {
+    background-image: url("https://d1fegwn2wjh0cs.cloudfront.net/06-23-2020/t_93599dd150264842bc508ff817842ff9_name_DF3DD94D7F3447239D00A1DBDEB06AE5_scaled.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
