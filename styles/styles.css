@@ -8,7 +8,11 @@
     background-attachment: fixed;
 }
 
-.mini-black-section {
-    background: black;
-    height: 70vh;
+.about > .row {
+    height: 60vh;
+}
+
+.track-record {
+    height: 60vh;
+
 }
